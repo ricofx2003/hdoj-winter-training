@@ -1,0 +1,1 @@
+{"name":"Local: F","url":"/home/ricofx/ACM寒假作业/区间DP/F.cpp","tests":[{"id":1673768857310,"input":"zzzzzfzzzzz\nabcdefedcba\nabababababab\ncdcdcdcdcdcd\nbcd\naab","output":"6\n7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ricofx/ACM寒假作业/区间DP/F.cpp","group":"local","local":true}

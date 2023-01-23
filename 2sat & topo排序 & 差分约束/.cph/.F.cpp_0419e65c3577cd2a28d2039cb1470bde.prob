@@ -1,0 +1,1 @@
+{"name":"Local: F","url":"/home/ricofx/ACM寒假作业/2sat & topo排序 & 差分约束/F.cpp","tests":[{"id":1673098071191,"input":"4 2\n1 2 gt 0\n2 2 lt 2\n1 2\n1 0 gt 0\n1 0 lt 0\n0","output":"lamentable kingdom\nsuccessful conspiracy"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ricofx/ACM寒假作业/2sat & topo排序 & 差分约束/F.cpp","group":"local","local":true}

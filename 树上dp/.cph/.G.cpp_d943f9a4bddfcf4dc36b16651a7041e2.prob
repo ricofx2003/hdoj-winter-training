@@ -1,0 +1,1 @@
+{"name":"Local: G","url":"/home/ricofx/ACM寒假作业/树上dp/G.cpp","tests":[{"id":1673867645460,"input":"4\n1 2 100\n2 3 50\n2 4 50\n4\n1 2 100\n2 3 50\n3 4 50","output":"150 2\n200 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ricofx/ACM寒假作业/树上dp/G.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"/home/ricofx/ACM寒假作业/2sat & topo排序 & 差分约束/A.cpp","tests":[{"id":1673062447642,"input":"3 2\n1 3\n2 4","output":"1\n4\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ricofx/ACM寒假作业/2sat & topo排序 & 差分约束/A.cpp","group":"local","local":true}
